@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="namesSingular">
+        //Length
+        <item>millimeter</item>
+        <item>centimeter</item>
+        <item>decimeter</item>
+        <item>meter</item>
+        <item>kilometer</item>
+        <item>inch</item>
+        <item>foot</item>
+        <item>yard</item>
+        <item>mile</item>
+        <item>nautical mile</item>
+        <item>light-year</item>
+
+        //WEIGHT
+        <item>milligram</item>
+        <item>gram</item>
+        <item>hectogram</item>
+        <item>kilogram</item>
+        <item>metric ton</item>
+        <item>grain</item>
+        <item>ounce</item>
+        <item>pound</item>
+        <item>stone</item>
+
+        //VOLUME
+        <item>milliliter</item>
+        <item>centiliter</item>
+        <item>deciliter</item>
+        <item>liter</item>
+        <item>megaliter</item>
+        <item>cubic millimeter</item>
+        <item>cubic centimeter</item>
+        <item>cubic decimeter</item>
+        <item>cubic meter</item>
+        <item>cubic kilometer</item>
+
+        <item>pint</item>
+
+        //TEMPERATURE
+        <item>celsius</item>
+        <item>fahrenheit</item>
+        <item>kelvin</item>
+        <item>rankine</item>
+
+        //SPEED
+        <item>meter/second</item>
+        <item>kilometer/hour</item>
+        <item>foot/second</item>
+        <item>mile/hour</item>
+        <item>mach</item>
+
+        //POWER
+        <item>horsepower</item>
+        <item>watt</item>
+        <item>kilowatt</item>
+    </string-array>
+
+    <string-array name="namesPlural">
+        //Length
+        <item>millimeters</item>
+        <item>centimeters</item>
+        <item>decimeters</item>
+        <item>meters</item>
+        <item>kilometers</item>
+        <item>inches</item>
+        <item>feet</item>
+        <item>yards</item>
+        <item>miles</item>
+        <item>nautical miles</item>
+        <item>light-years</item>
+
+        //WEIGHT
+        <item>milligrams</item>
+        <item>grams</item>
+        <item>hectograms</item>
+        <item>kilograms</item>
+        <item>metric tons</item>
+        <item>grains</item>
+        <item>ounces</item>
+        <item>pounds</item>
+        <item>stones</item>
+
+        //VOLUME
+        <item>milliliters</item>
+        <item>centiliters</item>
+        <item>deciliters</item>
+        <item>liters</item>
+        <item>megaliters</item>
+        <item>cubic millimeters</item>
+        <item>cubic centimeters</item>
+        <item>cubic decimeters</item>
+        <item>cubic meters</item>
+        <item>cubic kilometers</item>
+
+        <item>pints</item>
+
+        //TEMPERATURE
+        <item>celsius</item>
+        <item>fahrenheit</item> 
+        <item>kelvin</item>
+        <item>rankine</item>
+
+        //SPEED
+        <item>meters/second</item>
+        <item>kilometers/hour</item>
+        <item>feet/second</item>
+        <item>miles/hour</item>
+        <item>mach</item>
+
+        //POWER
+        <item>horsepower</item>
+        <item>watts</item>
+        <item>kilowatts</item>
+    </string-array>
+
+    <string-array name="alternateNames">
+        //Length
+        <item>mm;millimetre;millimetres;</item>
+        <item>cm;centimetre;centimetres;</item>
+        <item>dm;decimetre;decimetres</item>
+        <item>m;metre;metres;</item>
+        <item>km;kilometre;kilometres;</item>
+        <item>in;</item>
+        <item>ft;</item>
+        <item>yd;</item>
+        <item>mi;</item>
+        <item>nmi;</item>
+        <item>ly;lightyear;lightyears</item>
+
+        //WEIGHT
+        <item>mg;</item>
+        <item>g;</item>
+        <item>hg;</item>
+        <item>kg;kilo;kilos</item>
+        <item>t;ton;tons;</item>
+        <item>grains</item>
+        <item>oz;</item>
+        <item>lb;lbs;</item>
+        <item>stones</item>
+
+        //VOLUME
+        <item>milliliters</item>
+        <item>centiliters</item>
+        <item>deciliters</item>
+        <item>liters</item>
+        <item>megaliters</item>
+        <item>cubic millimeters</item>
+        <item>ccm;cc;</item>
+        <item>cubic decimeters</item>
+        <item>cubic meters</item>
+        <item>cubic kilometers</item>
+
+        <item>pints</item>
+
+        //TEMPERATURE
+        <item>c;</item>
+        <item>f;</item>
+        <item>k;</item>
+        <item>rankine</item>
+
+        //SPEED
+        <item>m/s;</item>
+        <item>kmh;kilometerhour;kilometershour</item>
+        <item>feet/second;</item>
+        <item>mph;miles/hour;mi/h;</item>
+        <item>mach;</item>
+
+        //POWER
+        <item>hp;</item>
+        <item>w;</item>
+        <item>kw;</item>
+    </string-array>
+
+    <string-array name="relativities">
+        //Length - cm
+        <item>x/DIVIDE:10</item>
+        <item>x</item>
+        <item>x/MULTIPLY:10.0</item>
+        <item>x/MULTIPLY:100.0</item>
+        <item>x/MULTIPLY:100000.0</item>
+        <item>x/MULTIPLY:2.54</item>
+        <item>x/MULTIPLY:30.48</item>
+        <item>x/MULTIPLY:91.44</item>
+        <item>x/MULTIPLY:160934.4</item>
+        <item>x/MULTIPLY:185200</item>
+        <item>x/MULTIPLY:946073047258080000</item>
+
+        //Weight - g
+        <item>x/DIVIDE:1000.0</item>
+        <item>x</item>
+        <item>x/MULTIPLY:100.0</item>
+        <item>x/MULTIPLY:1000.0</item>
+        <item>x/MULTIPLY:1000000.0</item>
+        <item>x/DIVIDE:7000.0/MULTIPLY:453.592</item>
+        <item>x/MULTIPLY:28.3495</item>
+        <item>x/MULTIPLY:453.592</item>
+        <item>x/MULTIPLY:6350.288</item>
+
+        //Volume - cl
+        <item>x/DIVIDE:10.0</item>
+        <item>x</item>
+        <item>x/MULTIPLY:10.0</item>
+        <item>x/MULTIPLY:100.0</item>
+        <item>x/MULTIPLY:100000000.0</item>
+        <item>x/DIVIDE:10000.0</item>
+        <item>x/DIVIDE:10.0</item>
+        <item>x/MULTIPLY:100.0</item>
+        <item>x/MULTIPLY:100000.0</item>
+        <item>x/MULTIPLY:100000000000000.0</item>
+
+        <item>x/MULTIPLY:56.826125</item>
+
+        //Temperature - c
+        <item>x</item>
+        <item>x/SUBTRACT:32.0/DIVIDE:1.8</item>
+        <item>x/SUBTRACT:273.15</item>
+        <item>x/SUBTRACT:491.67/DIVIDE:1.8</item>
+
+        //Speed - mft
+        <item>x</item>
+        <item>x/DIVIDE:3.6</item>
+        <item>x/MULTIPLY:0.3048</item>
+        <item>x/DIVIDE:2.24</item>
+        <item>x/MULTIPLY:340.29</item>
+
+        //POWER
+        <item>x/MULTIPLY:745.7</item>
+        <item>x</item>
+        <item>x/MULTIPLY:1000</item>
+    </string-array>
+
+    <string-array name="invRelativities">
+        //Length - cm
+        <item>x/MULTIPLY:10</item>
+        <item>x</item>
+        <item>x/DIVIDE:10.0</item>
+        <item>x/DIVIDE:100.0</item>
+        <item>x/DIVIDE:100000.0</item>
+        <item>x/DIVIDE:2.54</item>
+        <item>x/DIVIDE:30.48</item>
+        <item>x/DIVIDE:91.44</item>
+        <item>x/DIVIDE:160934.4</item>
+        <item>x/DIVIDE:185200</item>
+        <item>x/DIVIDE:946073047258080000</item>
+
+        //Weight - g
+        <item>x/MULTIPLY:1000.0</item>
+        <item>x</item>
+        <item>x/DIVIDE:100.0</item>
+        <item>x/DIVIDE:1000.0</item>
+        <item>x/DIVIDE:1000000.0</item>
+        <item>x/MULTIPLY:7000.0/DIVIDE:453.592</item>
+        <item>x/DIVIDE:28.3495</item>
+        <item>x/DIVIDE:453.592</item>
+        <item>x/DIVIDE:6350.288</item>
+
+        //Volume - cl
+        <item>x/MULTIPLY:10.0</item>
+        <item>x</item>
+        <item>x/DIVIDE:10.0</item>
+        <item>x/DIVIDE:100.0</item>
+        <item>x/DIVIDE:100000000.0</item>
+        <item>x/MULTIPLY:10000.0</item>
+        <item>x/MULTIPLY:10.0</item>
+        <item>x/DIVIDE:100.0</item>
+        <item>x/DIVIDE:100000.0</item>
+        <item>x/DIVIDE:100000000000000.0</item>
+
+        <item>x/DIVIDE:56.826125</item>
+
+        //Temperature - c
+        <item>x</item>
+        <item>x/MULTIPLY:1.8/ADD:32.0</item>
+        <item>x/ADD:273.15</item>
+        <item>x/MULTIPLY:1.8/ADD:491.67</item>
+
+        //Speed - m/s
+        <item>x</item>
+        <item>x/MULTIPLY:3.6</item>
+        <item>x/DIVIDE:0.3048</item>
+        <item>x/MULTIPLY:2.24</item>
+        <item>x/DIVIDE:340.29</item>
+
+        //POWER
+        <item>x/DIVIDE:745.7</item>
+        <item>x</item>
+        <item>x/DIVIDE:1000</item>
+    </string-array>
+
+    <string-array name="quantities">
+        <item>DISTANCE</item>
+        <item>DISTANCE</item>
+        <item>DISTANCE</item>
+        <item>DISTANCE</item>
+        <item>DISTANCE</item>
+        <item>DISTANCE</item>
+        <item>DISTANCE</item>
+        <item>DISTANCE</item>
+        <item>DISTANCE</item>
+        <item>DISTANCE</item>
+        <item>DISTANCE</item>
+
+        <item>WEIGHT</item>
+        <item>WEIGHT</item>
+        <item>WEIGHT</item>
+        <item>WEIGHT</item>
+        <item>WEIGHT</item>
+        <item>WEIGHT</item>
+        <item>WEIGHT</item>
+        <item>WEIGHT</item>
+        <item>WEIGHT</item>
+
+        <item>VOLUME</item>
+        <item>VOLUME</item>
+        <item>VOLUME</item>
+        <item>VOLUME</item>
+        <item>VOLUME</item>
+        <item>VOLUME</item>
+        <item>VOLUME</item>
+        <item>VOLUME</item>
+        <item>VOLUME</item>
+        <item>VOLUME</item>
+        <item>VOLUME</item>
+
+        <item>TEMPERATURE</item>
+        <item>TEMPERATURE</item>
+        <item>TEMPERATURE</item>
+        <item>TEMPERATURE</item>
+
+        <item>SPEED</item>
+        <item>SPEED</item>
+        <item>SPEED</item>
+        <item>SPEED</item>
+        <item>SPEED</item>
+
+        <item>POWER</item>
+        <item>POWER</item>
+        <item>POWER</item>
+    </string-array>
+
+    <string-array name="localisations">
+        <item>METRIC</item>
+        <item>METRIC</item>
+        <item>METRIC</item>
+        <item>METRIC</item>
+        <item>METRIC</item>
+        <item>IMPERIAL</item>
+        <item>IMPERIAL</item>
+        <item>IMPERIAL</item>
+        <item>IMPERIAL</item>
+        <item>OTHER</item>
+        <item>SCIENTIFIC</item>
+
+        <item>METRIC</item>
+        <item>METRIC</item>
+        <item>METRIC</item>
+        <item>METRIC</item>
+        <item>METRIC</item>
+        <item>IMPERIAL</item>
+        <item>IMPERIAL</item>
+        <item>IMPERIAL</item>
+        <item>IMPERIAL</item>
+
+        <item>METRIC</item>
+        <item>METRIC</item>
+        <item>METRIC</item>
+        <item>METRIC</item>
+        <item>METRIC</item>
+        <item>METRIC</item>
+        <item>METRIC</item>
+        <item>METRIC</item>
+        <item>METRIC</item>
+        <item>METRIC</item>
+        <item>IMPERIAL</item>
+
+        <item>METRIC</item>
+        <item>IMPERIAL</item>
+        <item>SCIENTIFIC</item>
+        <item>IMPERIAL</item>
+
+        <item>METRIC</item>
+        <item>METRIC</item>
+        <item>IMPERIAL</item>
+        <item>IMPERIAL</item>
+        <item>METRIC</item>
+
+        <item>IMPERIAL</item>
+        <item>METRIC</item>
+        <item>METRIC</item>
+    </string-array>
+</resources>
