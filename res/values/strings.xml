@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Easy Converter</string>
+    <string name="choose_output">Tap to choose output units</string>
+    <string name="positive_txt">Ok</string>
+    <string name="input_hint_text_converter">Start typing to convert</string>
+    <string name="output_hint_text_converter"></string>
+    <string name="input_hint_normal_converter">Start typing to convert</string>
+    <string name="copied_msg">Copied</string>
+    <string name="unit_button">Units</string>
+</resources>
